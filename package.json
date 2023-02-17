@@ -1,0 +1,22 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "Greeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopeyin/testing-npm-package.git"
+  },
+  "keywords": [
+    "Greet"
+  ],
+  "author": "Oladimeji Shopeyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shopeyin/testing-npm-package/issues"
+  },
+  "homepage": "https://github.com/shopeyin/testing-npm-package#readme"
+}
